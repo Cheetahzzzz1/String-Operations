@@ -15,3 +15,5 @@ Both classes uses a custom 'stack' for better processing.
 The Stack class provides basic stack operations:
 
 1. push(item) : Adds an item to the stack.
+
+2.pop() : Removes an element form the stack.

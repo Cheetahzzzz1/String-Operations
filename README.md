@@ -11,3 +11,7 @@ This project implements two core functionalities using stack data structure:-
 Both classes uses a custom 'stack' for better processing.
 
 # Stack Implementation
+
+The Stack class provides basic stack operations:
+
+1. push(item) : Adds an item to the stack.

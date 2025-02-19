@@ -16,4 +16,4 @@ The Stack class provides basic stack operations:
 
 1. push(item) : Adds an item to the stack.
 
-2.pop() : Removes an element form the stack.
+2. pop() : Removes an item from the stack

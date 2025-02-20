@@ -24,4 +24,4 @@ The Stack class provides basic stack operations:
 
 This class is used in both solutions to efficiently manage data.
 
-# 
+# Features

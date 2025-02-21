@@ -25,3 +25,9 @@ The Stack class provides basic stack operations:
 This class is used in both solutions to efficiently manage data.
 
 # Features
+
+1. <ins> Valid Parentheses Checker </ins>
+
+1. Accepts a string containing only (), {}, [].
+
+2. 

@@ -26,8 +26,32 @@ This class is used in both solutions to efficiently manage data.
 
 # Features
 
-1. <ins> Valid Parentheses Checker </ins>
+<ins> Valid Parentheses Checker </ins>
 
 1. Accepts a string containing only (), {}, [].
 
-2. 
+2. Uses a stack to track open brackets and validates closing brackets.
+
+3. Returns True if the string is correctly balanced, otherwise, False.
+
+<ins> Postfix Expression Evaluator</ins>
+
+1. Accepts a postfix expression string.
+
+2. Uses a stack to evaluate arithmetic expressions using +, -, *, /
+
+3. Ensures integer division where applicable.
+
+4. Returns the computed result.
+
+# Dependencies
+
+1. Python 3.x
+
+2. CSV module (built-in).
+
+# Notes
+
+1. The CSV files should be properly formatted with valid expressions.
+
+2. The program ensures handling of special characters like UTF-8 BOM when reading CSV files.
